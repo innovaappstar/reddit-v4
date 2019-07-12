@@ -58,9 +58,7 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "angular-reddit:build" // ,
-            // "host": "192.168.1.70",
-            // "port" : 4200
+            "browserTarget": "angular-reddit:build"
           },
           "configurations": {
             "production": {
